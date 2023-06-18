@@ -2,6 +2,9 @@
 
 This program is a Python library that generates Tkinter user interfaces with drag-and-drop functionality. It provides an intuitive way to build graphical interfaces for Python applications.
 
+![stk](https://github.com/brunohermes/STK-Builder/assets/48295386/3642106c-e9c2-4436-ac37-80aa8cabd119)
+
+
 ## Usage
 
 To use this program, the user needs to run the `main.py` program. This will open the GUI builder window where the user can add widgets to the interface by dragging and dropping them onto the canvas.
