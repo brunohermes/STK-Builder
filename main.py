@@ -7,7 +7,7 @@ class DragDropWidget:
         self.widgets = []
         self.current_widget = None
         self.drag_start = None
-                
+        root.title("STK - Simple Tkinter Ui Builder")
         # Create the drag handle
         self.drag_handle = tk.Label(root, text="Drag and drop widgets to build your interface")
         self.drag_handle.pack(fill=tk.X)
