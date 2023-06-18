@@ -1,6 +1,4 @@
-Sure, here's the code for this README:
 
-```
 # Python Drag-and-Drop GUI Builder with Tkinter
 
 This software is a Python library designed to create user interfaces with drag-and-drop functionality. It is built on top of the Tkinter library and provides an intuitive way to build graphical interfaces for Python applications.
